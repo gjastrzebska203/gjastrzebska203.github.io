@@ -11,10 +11,11 @@
 </head>
 <body>
     <h1>To strona z odzysku (weby nr 1)</h1>
-    <a href="https://placekitten.com/"><img src="http://placekitten.com/200/300" alt="kotek"></a>
+    <img src="http://placekitten.com/200/300" alt="kotek">
     <h2>Nagłówek 2</h2>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae reiciendis est eum suscipit nihil totam doloribus nobis. Quod consectetur nesciunt harum quaerat voluptate, sequi cum adipisci modi nemo sapiente minus.</p>
     <h3>Nagłówek 3</h3>
+    <img src="kot.jpg" alt="kot">
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse, sapiente?</p>
     <p>Hic dolor illo eaque, a nulla maxime provident fugiat ab.</p>
     <p><a href="https://stepik.org/learn">stepik</a></p>
